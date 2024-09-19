@@ -10,7 +10,7 @@ table has been used in education section of the index page
 ### Images
 Multiple images has been used in the website using img tag like profile picture, background pucture etc.
 ### Hyperlink
-hyperlink has been used in the expirence section of website where user will be redirected to ![capgemini](https://en.wikipedia.org/wiki/Capgemini)
+hyperlink has been used in the expirence section of website where user will be redirected to wikipedia page of capgemini
 ### Button
 button has been placed in the contact section of website which will take used to 
 ### audio
@@ -41,4 +41,13 @@ This is a simple page thanking the users for registration
 
 ## styles ![styles page](styles.css)
 In this page we add styles to the html pages using text align, size and style background color, image, position, border radious, padding, margin to improve the user expirence of the nd user.
-
+### Use of float and overflow property
+float and overflow property has been used in the expirence section of index page 
+### Use of column layout structure
+column layout has been used in the projects section 
+### Use of absolute and relative position whenever necessary
+absolute and relative positions have been used in necessary pages of the website
+### Create a professional image gallery for certifications
+a image gallery with certification name, caption and short description about certifications has been created in certifications section
+### Make the website responsive using media queries 
+media query has been used in the website to make it user friendly for user with different kinds of devices
